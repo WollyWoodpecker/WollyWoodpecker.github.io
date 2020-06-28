@@ -13,3 +13,5 @@ MegaMan said:
 > Mega
 > Man
 
+<img src='https://vignette.wikia.nocookie.net/megamanx/images/2/2a/MegaMan.png/revision/latest/scale-to-width-down/178?cb=20140606204558&path-prefix=de'/>
+
